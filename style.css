@@ -8,27 +8,31 @@
 #menusuperior{
     background-color: #303030;
     padding: 100px;
+    color: aliceblue;
 }
 
 #titulo-menusuperior{
     font-size: 60px;
     color: #FFFFFF;
-    margin: 130px 0px 10px 50px;
+    margin-left: 50px;  
+    padding-top: 50px;
 }
 
 #paragrafo-menusuperior{
     font-size: 20px;
     font-weight: 500;
     color: #FFFFFF;
-    margin: 0px 0px 10px 50px;
+    margin-left: 50px;  
+    padding-top: 20px;
+    padding-bottom: 100px;
 }
 
 #informacao{
-    background-color: #F9F9F9;
+    background-color: #EAECE5;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
-    padding: 100px 0 100px 200px;
+    padding: 50px 0 50px 200px;
 }
 
 #experiencia{
