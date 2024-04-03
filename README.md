@@ -1,7 +1,6 @@
-
+  # Landing Page para captação de Leads
   
-  # Desafio 1 - Resolução
-  Primeiro desafio da Formação em Tecnologia, ciclo base, da Escola DNC
+  Esse projeto é uma landing page, que tem como objetivo a captura de leads. Os contatos de interesse são registrados em uma planilha da SpreadSheets da google.
   <br>
 
   Link do site disponibilizado: https://dnc-primeirodesafio.netlify.app/
